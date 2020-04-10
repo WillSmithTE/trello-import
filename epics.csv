@@ -1,0 +1,19 @@
+Title,Description
+Provide privileges/ranks,As an admin I want to be able to provide other members of a cluster certain privileges/ranks so that I can help better moderate my cluster. 
+Ranks for member-observers,As an admin I want to be able to create ranks which provide member-observers the ability to edit/create new things on the cluster.
+View total number people in cluster,As an admin I want to be able view the total number of people inside the cluster so that I can view size.
+View total number paying observers,As an admin I want to be able to view the total amount of observers paying to view the cluster so I can track profit.
+Set cluster preview,As an admin I want to be able to set a preview for the cluster so that I can attract observers to pay and view.
+Delete/mute/ban members-observers,As an admin I want to be able to delete mute or ban member-observers part of the cluster to help with moderation. 
+Add cluster tags,As an admin I want to be able to add tags to my cluster to help observers find my cluster when exploring. 
+Create cluster 'about' page,As an admin I want to be able to create an “abouts” page for the cluster which is viewable by everyone allowing me to describe the cluster so that observers can more easily find us when searching for clusters. 
+Name cluster,As an admin I want to be able to name my cluster so that I can better identify myself.
+Accuracy score of cluster,As an admin I want my cluster to have a “score” based on the accuracy of calls so that I can better market my cluster. 
+Create google doc-like sheets,As a member-observer I want to be able to create google doc like sheets to generate new fundamental analysis type ideas.
+Create share charts,As a member-observer I want to be able to create share charts in order to share technical analysis type ideas.
+View edit history of post,As a member-observer I want to be able to view the edit history of a post so that I can see who added/deleted parts to my idea. 
+View cluster previews,As an observer I want to be able to view previews of different clusters so I can subscribe to them.
+Search for clusters,As an observer I want to be able to search for different clusters in a search box so I can find them.
+Explore page to find clusters,As an observer I want to be able to use an explore page where I can use keywords to find specific clusters I'm looking for. 
+List of subscribed clusters,As an observer I want a list of all the clusters I'm subscribed to for easy access. 
+Delete cluster subscription,As an observer I want to be able to delete my subscription to a cluster anytime I want. 
